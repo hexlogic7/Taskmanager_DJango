@@ -27,7 +27,8 @@ Admin Interface: Django admin
 
 Clone this repository:
 
-git clone https://github.com/yourusername/taskmanager.git
+git clone https://github.com/hexlogic7/Taskmanager_DJango.git
+
 cd taskmanager
 
 
